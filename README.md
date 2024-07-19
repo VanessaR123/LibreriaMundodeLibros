@@ -1,2 +1,2 @@
-# ReservasTuristica
-Empresa turística local
+# LibreriaMundodeLibros
+Empresa distribuidora de libros
